@@ -3,7 +3,7 @@ This project contains links to all my Data Science Projects
 
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
-- [Data Science Projects:](#Data Science Projects)
+- [Data Science Projects](#data-science-projects)
 
 <p align='center'>
     <img src='portifolio.png'>
@@ -40,7 +40,7 @@ The details of each solution are described in the projects below.
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geordanogg@gmail.com)](mailto:geordanogg@gmail.com)
 
 
-## Data Science Projects:
+## Data Science Projects
 
 ### [Sales Prediction]( https://gitlab.com/geordanogg/rossmann_sales_predictions )
 
