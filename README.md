@@ -1,4 +1,4 @@
-# Geo_DS_Portifolio
+# Geordano_DS_Portifolio
 This project contains links to all my Data Science Projects
 
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
