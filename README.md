@@ -2,7 +2,8 @@
 This project contains links to all my Data Science Projects
 
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
-[Data Science Projects]
+
+- [Data Science Projects:](#Data Science Projects)
 
 <p align='center'>
     <img src='portifolio.png'>
