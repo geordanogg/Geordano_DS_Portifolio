@@ -2,6 +2,7 @@
 This project contains links to all my Data Science Projects
 
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
+[Data Science Projects]
 
 <p align='center'>
     <img src='portifolio.png'>
@@ -29,9 +30,9 @@ The details of each solution are described in the projects below.
 
 **Data Vizualization:** *Power BI
 
-**Machine Learning Modeling:** Classification, Regression, Clustering, Time Series, Reinforcement Learning, RecSys and NLP. 
+**Machine Learning Modeling:** Classification, Regression, Clustering, Time Series
 
-**Machine Learning Deployment:** AWS Cloud and Google Cloud Platform ( GCP )  
+**Machine Learning Deployment:** Heroku *AWS Cloud* and *Google Cloud Platform ( GCP )*  
 
 **Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/geordano-gadelha-guimar%C3%A3es-a3354131/)
