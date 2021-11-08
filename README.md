@@ -56,4 +56,4 @@ The performance of this model according to the company's business model describe
 
 ### [Health Insurance Cross-Sell]( https://gitlab.com/geordanogg/ ) 
 
-### [Insiders Clustering]( https://gitlab.com/geordanogg/ ) 
+### [Insiders Clustering]( https://github.com/geordanogg/Insiders_Clustering ) 
