@@ -29,11 +29,11 @@ The details of each solution are described in the projects below.
 
 **Development:** Git, Linux
 
-**Data Vizualization:** 
+**Data Vizualization:** Metabase
 
 **Machine Learning Modeling:** Classification, Regression, Clustering
 
-**Machine Learning Deployment:** Heroku 
+**Machine Learning Deployment:** Heroku, AWS 
 
 **Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/geordanogg)
