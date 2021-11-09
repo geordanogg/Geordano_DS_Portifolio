@@ -3,9 +3,6 @@ This project contains links to all my [Data Science Projects](#data-science-proj
 
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
-<p align='center'>
-    <img src='portifolio.png'>
-</p>
 
 [![author](https://img.shields.io/badge/author-geordanogg-red.svg)](https://www.linkedin.com/in/geordanogg/) [![](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/geordanogg/Geordano_DS_Portifolio/issues)
 
@@ -58,40 +55,10 @@ The performance of this model according to the company's business model describe
 
 ### [Insiders Clustering]( https://github.com/geordanogg/Insiders_Clustering ) 
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/geordanogg/Geordano_DS_Portifolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[editor on GitHub](https://github.com/geordanogg/Geordano_DS_Portifolio/edit/gh-pages/index.md) 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geordanogg/Geordano_DS_Portifolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Jekyll](https://jekyllrb.com/)
