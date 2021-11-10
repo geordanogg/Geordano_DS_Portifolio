@@ -37,30 +37,26 @@ The details of each solution are described in the projects below.
 
 ## Data Science Projects
 
-- [x] Business Problem and Context
-- [x] Machine Learning model metrics
-- [x] The performance of this model according to the company's business model described in the problem definition.
+```
+- Business Problem and Context
+- Machine Learning model metrics
+- The performance of this model according to the company's business model described in the problem definition.
+```
 
-> Regression
+> ### **Regression**
 
-### [Sales Prediction]( https://gitlab.com/geordanogg/rossmann_sales_predictions )
-
-
-> Classification
-
-### [Cardiovascular Disease Detection]( https://gitlab.com/geordanogg/ )
-
-### [Fraud Detection]( https://gitlab.com/geordanogg/ ) 
-
-### [Churn Prediciton]( https://gitlab.com/geordanogg/ ) 
-
-### [Health Insurance Cross-Sell]( https://gitlab.com/geordanogg/ ) 
+* #### [Sales Prediction]( https://gitlab.com/geordanogg/rossmann_sales_predictions )
 
 
-> Clustering
+> ### **Classification**
 
-### [Insiders Clustering]( https://github.com/geordanogg/Insiders_Clustering ) 
+* #### [Health Insurance Cross-Sell]( https://gitlab.com/geordanogg/ ) 
+
+
+> ### **Clustering**
+
+* #### [Insiders Clustering]( https://github.com/geordanogg/Insiders_Clustering ) 
 
 
 ## **Contato:** 
-* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/geordanogg)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geordanogg@gmail.com)](mailto:geordanogg@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/geordanogg) | [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geordanogg@gmail.com)](mailto:geordanogg@gmail.com)
