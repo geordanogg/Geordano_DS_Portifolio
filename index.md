@@ -2,7 +2,7 @@
 
 >This project contains links to all my [Data Science Projects](#data-science-projects)
 
-:dart: The main objective of this portfolio of personal data science projects is to demonstrate my skills in solving business problems through my knowledge and mastery of data science tools.
+The main objective of this portfolio of personal data science projects is to demonstrate my skills in solving business problems through my knowledge and mastery of data science tools.
 
 ![portifolio](https://user-images.githubusercontent.com/51702682/141029122-b4a08136-815c-4aab-ad59-cbbb8ebed82b.png)
 
