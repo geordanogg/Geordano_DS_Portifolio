@@ -50,7 +50,7 @@ The details of each solution are described in the projects below.
 
 > ### **Classification**
 
-* #### [Health Insurance Cross-Sell]( https://gitlab.com/geordanogg/ ) 
+* #### [Health Insurance Cross-Sell]( https://github.com/geordanogg/Health_Insurance ) 
 
 
 > ### **Clustering**
