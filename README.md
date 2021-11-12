@@ -40,22 +40,29 @@ The details of each solution are described in the projects below.
 ```
 - Business Problem and Context
 - Machine Learning model metrics
-- The performance of this model according to the company's business model described in the problem definition.
+- The performance of this model according to the company's business model.
 ```
 
 > ### **Regression**
 
-* #### [Sales Prediction]( https://gitlab.com/geordanogg/rossmann_sales_predictions )
-
+* #### Sales Prediction 
+       
+     - O CEO de uma rede de farmácias na Europa, a Rossman, precisa saber a previsão de vendas das suas lojas para as próximas 6 semanas. Confira [aqui]( https://gitlab.com/geordanogg/rossmann_sales_predictions ) os detalhes deste projeto que envolve um modelo de Regressão Linear capaz de atender à demanda do CEO.
+     - *The CEO of a pharmacy chain in Europe, Rossman, needs to know the sales forecast for its stores for the next 6 weeks. Check out the details of this project here, which involves a Linear Regression model capable of meeting the CEO's demand.*
 
 > ### **Classification**
 
-* #### [Health Insurance Cross-Sell]( https://github.com/geordanogg/Health_Insurance ) 
+* #### Health Insurance Cross-Sell 
 
+     - Uma empresa de seguros de saúde está interessada em oferecer um novo produto aos seus clientes, mas possui uma limitação de alcance no seu time de marketing que não sabe para quem oferecer primeiro. Confira [aqui]( https://github.com/geordanogg/Health_Insurance ) os detalhes deste projeto que, através de algoritmos de classificação, ranqueia aqueles clientes mais propensos a aceitar a oferta. 
+     - *A health insurance company is interested in offering a new product to its customers, but has a limited reach in its marketing team that does not know who to offer it to first. Check out the details of this project here, which, through ranking algorithms, ranks those customers most likely to accept the offer.*
 
 > ### **Clustering**
 
-* #### [Insiders Clustering]( https://github.com/geordanogg/Insiders_Clustering ) 
+* #### Insiders Clustering 
+
+     - Uma empresa de e-commerce está interessada em criar um programa de fidelidade chamado Insiders, que será formado pelos clientes mais valiosos da sua base. Confira [aqui]( https://github.com/geordanogg/Insiders_Clustering ) os detalhes deste projeto que segmenta a base de clientes usando algoritmos de clusterização e define quem serão os clientes elegíveis a participar do seleto grupo. 
+     - *An e-commerce company is interested in creating a loyalty program called Insiders, which will be formed by the most valuable customers in its base. Check out the details of this project here, which segments the customer base using clustering algorithms and defines which customers will be eligible to participate in the select group.*
 
 
 ## **Contato:** 
