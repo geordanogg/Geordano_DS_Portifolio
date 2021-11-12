@@ -47,7 +47,7 @@ The details of each solution are described in the projects below.
 
 * #### Sales Prediction 
        
-     - O CEO de uma rede de farmácias na Europa, a Rossman, precisa saber a previsão de vendas das suas lojas para as próximas 6 semanas. Confira [aqui]( https://gitlab.com/geordanogg/rossmann_sales_predictions ) os detalhes deste projeto que envolve um modelo de Regressão Linear capaz de atender à demanda do CEO.
+     - O CEO de uma rede de farmácias na Europa, a Rossman, precisa saber a previsão de vendas das suas lojas para as próximas 6 semanas. Confira [aqui]( https://github.com/geordanogg/DataScience_Em_Producao) os detalhes deste projeto que envolve um modelo de Regressão Linear capaz de atender à demanda do CEO.
      - *The CEO of a pharmacy chain in Europe, Rossman, needs to know the sales forecast for its stores for the next 6 weeks. Check out the details of this project here, which involves a Linear Regression model capable of meeting the CEO's demand.*
 
 > ### **Classification**
