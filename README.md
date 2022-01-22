@@ -4,7 +4,7 @@
 
 :dart: The main objective of this portfolio of personal data science projects is to demonstrate my skills in solving business problems through my knowledge and mastery of data science tools.
 
-![portifolio](https://user-images.githubusercontent.com/51702682/141029122-b4a08136-815c-4aab-ad59-cbbb8ebed82b.png)
+![portifolio](Portfolio.png)
 
 [![author](https://img.shields.io/badge/author-geordanogg-red.svg)](https://www.linkedin.com/in/geordanogg/) [![](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/geordanogg/Geordano_DS_Portifolio/issues)
 
