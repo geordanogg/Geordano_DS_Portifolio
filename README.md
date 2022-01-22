@@ -1,4 +1,4 @@
-# Geordano_DS_Portifolio
+# Data Science Portfolio
 
 >This project contains links to all my [Data Science Projects](#data-science-projects)
 
